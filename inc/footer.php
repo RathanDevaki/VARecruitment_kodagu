@@ -8,6 +8,7 @@
 	                        <li><a href="help.php">Contact Us</a></li>
 	                    </ul>
 	            </div>
+	            //hi
 	        	<div class="col-md-3 col-sm-8 footer-social d-flex">
         			<div class="d-inline-block align-self-center">
 	        			<p class="bg-light"><img src="<?php echo SITEPATH; ?>images/NIC.png" alt="NIC" target="_blank"></p>
